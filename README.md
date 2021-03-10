@@ -36,7 +36,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/AndrewReis/pets.git>
+$ git clone <https://github.com/AndrewReis/darkTheme.git>
 
 ```
 
@@ -45,7 +45,7 @@ $ git clone <https://github.com/AndrewReis/pets.git>
 ```bash
 
 # Vá para a pasta frontend
-$ cd darkMode
+$ cd darkTheme
 
 # Instale as dependências
 $ npm install
