@@ -29,7 +29,7 @@ const Home: React.FC<HomeProps> = ({ themeName, setThemeName }) => {
     <Container>
       <header>
         <h1>Dark Mode Example</h1>
-        <button onClick={toggleTheme} >Ativar DarkTheme</button>
+        <button onClick={toggleTheme} >Active DarkTheme</button>
       </header>
 
       <nav>
