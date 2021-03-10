@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1 align="center">  <img alt="darkmode" title="#DarkMode" src="" /> </h1>
+    <h1 align="center">  <img alt="darkmode" title="#DarkMode" src="https://github.com/AndrewReis/darkTheme/blob/master/src/assets/darkmode.gif" /> </h1>
 </h1>
 
 <p align="center">
